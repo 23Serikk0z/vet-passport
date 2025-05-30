@@ -1,0 +1,6 @@
+@VET_PASSPORT_HostAddress = http://localhost:5219
+
+GET {{VET_PASSPORT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
